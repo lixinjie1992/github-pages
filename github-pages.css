@@ -12,6 +12,3 @@ p {
 	text-indent: 2.2em;
 	word-wrap: break-word;
 }
-p + img {
-	margin-bottom: 20px;
-}
